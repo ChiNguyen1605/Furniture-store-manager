@@ -1,0 +1,49 @@
+D:\WF C#\PTPMUDTM\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll.config
+D:\WF C#\PTPMUDTM\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll
+D:\WF C#\PTPMUDTM\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.pdb
+D:\WF C#\PTPMUDTM\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.dll
+D:\WF C#\PTPMUDTM\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.pdb
+D:\WF C#\A101_FunitureStore\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll.config
+D:\WF C#\A101_FunitureStore\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll
+D:\WF C#\A101_FunitureStore\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.pdb
+D:\WF C#\A101_FunitureStore\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.dll
+D:\WF C#\A101_FunitureStore\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.pdb
+D:\WF C#\A101_FunitureStore\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Huỳnh Như\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll.config
+D:\Huỳnh Như\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll
+D:\Huỳnh Như\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.pdb
+D:\Huỳnh Như\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Huỳnh Như\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.dll
+D:\Huỳnh Như\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.pdb
+C:\Users\Huynh Nhu\Desktop\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll.config
+C:\Users\Huynh Nhu\Desktop\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll
+C:\Users\Huynh Nhu\Desktop\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.pdb
+C:\Users\Huynh Nhu\Desktop\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Nhu\Desktop\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.dll
+C:\Users\Huynh Nhu\Desktop\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.pdb
+D:\ChiNguyen\.DUPHONG\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll.config
+D:\ChiNguyen\.DUPHONG\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll
+D:\ChiNguyen\.DUPHONG\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.pdb
+D:\ChiNguyen\.DUPHONG\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ChiNguyen\.DUPHONG\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.dll
+D:\ChiNguyen\.DUPHONG\.DUPHONG\.DUPHONG\.DUPHONG\demo2\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.pdb
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll.config
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.pdb
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.dll
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.pdb
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll.config
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.pdb
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.dll
+D:\ChiNguyen\.DUPHONG\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.pdb
+D:\ChiNguyen\Quản Lý Cửa Hàng Trang Trí Nội Thất\Quản Lý Cửa Hàng Trang Trí Nội Thất\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll.config
+D:\ChiNguyen\Quản Lý Cửa Hàng Trang Trí Nội Thất\Quản Lý Cửa Hàng Trang Trí Nội Thất\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.dll
+D:\ChiNguyen\Quản Lý Cửa Hàng Trang Trí Nội Thất\Quản Lý Cửa Hàng Trang Trí Nội Thất\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\bin\Debug\BLL.pdb
+D:\ChiNguyen\Quản Lý Cửa Hàng Trang Trí Nội Thất\Quản Lý Cửa Hàng Trang Trí Nội Thất\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ChiNguyen\Quản Lý Cửa Hàng Trang Trí Nội Thất\Quản Lý Cửa Hàng Trang Trí Nội Thất\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.dll
+D:\ChiNguyen\Quản Lý Cửa Hàng Trang Trí Nội Thất\Quản Lý Cửa Hàng Trang Trí Nội Thất\QL_CuaHangNoiThat\QL_CuaHangNoiThat\QL_CUAHANGNOITHAT\BLL\obj\Debug\BLL.pdb
